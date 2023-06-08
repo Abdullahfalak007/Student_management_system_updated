@@ -1,0 +1,5 @@
+Faculty Name: farukh
+Course Title: OOP
+Semester: 4
+Credit Hours: 4
+
